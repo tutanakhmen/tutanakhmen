@@ -15,7 +15,7 @@ I am Hasan Albanna, currently Still in College as Software Engineer. I am Indone
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutanakhmen&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutanakhmen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutanakhmen&theme=transparent_layout=compact)
 
 
 <!--
