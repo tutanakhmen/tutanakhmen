@@ -15,7 +15,6 @@ I am Hasan Albanna, currently Still in College as Software Engineer. I am Indone
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tutanakhmen)](https://github.com/tutanakhmen/github-readme-stats)
 
 <!--
 **tutanakhmen/tutanakhmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
