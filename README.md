@@ -1,4 +1,4 @@
-Programmer junior yang tertarik dengan IoT & AI serta game Developer untuk kemajuan teknologi. saat ini sedang menempuh jurusan S1 Teknik Informatika. demnnnn...
+Programmer junior yang tertarik dengan IoT & AI serta game Developer untuk kemajuan teknologi. saat ini sedang menempuh jurusan S1 Teknik Informatika. demnnnn... 
 
 ## ⚡ Technologies
 
@@ -12,8 +12,8 @@ Programmer junior yang tertarik dengan IoT & AI serta game Developer untuk kemaj
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutanakhmen&theme=dark&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutanakhmen&layout=compact)-->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutanakhmen&theme=dark&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutanakhmen&layout=compact)
 
 
 <!--
