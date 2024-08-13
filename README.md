@@ -1,3 +1,4 @@
+#WHO AM I?
 Programmer junior yang tertarik dengan IoT & AI serta game Developer untuk kemajuan teknologi. saat ini sedang menempuh jurusan S1 Teknik Informatika. demnnnn... 
 
 ## ⚡ Technologies
