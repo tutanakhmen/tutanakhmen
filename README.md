@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Hasan Albanna, currently Still in College as Software Engineer. I am Indonesian. 
+Programmer junior yang tertarik dengan IoT & AI serta game Developer untuk kemajuan teknologi. saat ini sedang menempuh jurusan S1 Teknik Informatika. demnnnn...
 
 ## ⚡ Technologies
 
